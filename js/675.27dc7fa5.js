@@ -1,1 +1,0 @@
-"use strict";(globalThis["webpackChunkportfolio_website"]=globalThis["webpackChunkportfolio_website"]||[]).push([[675],{4675:(t,e,o)=>{o.r(e),o.d(e,{default:()=>u});var i=o(9835);function r(t,e){return(0,i.wg)(),(0,i.iD)("div",null,"Contact us")}var l=o(1639);const n={},s=(0,l.Z)(n,[["render",r]]),u=s}}]);
